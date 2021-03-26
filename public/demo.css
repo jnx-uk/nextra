@@ -82,6 +82,7 @@ color: #000;
 text-align: center;
 color: #fff;
 min-height: 50vh;
+display: block;
 }
 
 #__next > div > div > article > main > section > h1 {
