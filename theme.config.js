@@ -1,6 +1,6 @@
 export default {
   repository: 'https://github.com/jnx-uk/nhs-hybrid-ui',
-  titleSuffix: ' – Docs - NHS UI Components',
+  titleSuffix: ' – NHS UI Components',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">NHS UI Components</span>
