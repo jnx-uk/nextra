@@ -81,12 +81,13 @@ color: #000;
 .nhs-hero {
 text-align: center;
 color: #fff;
-padding: 75px;
+padding: 150px;
 }
 
 #__next > div > div > article > main > section > h1 {
 color: #fff;
 font-size: 4rem;
+text-align: center;
 }
 
 .colour-block {
