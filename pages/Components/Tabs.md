@@ -3,7 +3,7 @@
 Insert demo
 
 ```html
-<div class="tabs">
+<div class="nhs-tabs">
 <input type="radio" name="tabs" id="tabone" checked="checked" />
 <label for="tabone">Tab One</label>
 <div class="tab">
