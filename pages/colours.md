@@ -32,6 +32,14 @@ Minimal use of these colours.
     <div class="colour nhs-light-red">nhs-light-red</div>
 </div>
 
+### Specials
+These are not NHS standard colours but can be used to decorate UI.
+
+<div class="colour-block">
+    <div class="colour nhs-fancy">nhs-fancy</div>
+    <div class="colour nhs-fancy2">nhs-fancy2</div>
+</div>
+
 ```html
 <div class="nhs-yellow">nhs-yellow</div>
 ```
