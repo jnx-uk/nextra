@@ -28,7 +28,7 @@
 ```html
 <details>
         <summary>
-          <div class="nhs-btn">
+          <div class="nhs-btn nhs-fancy2">
             Open Modal
           </div>
           <div class="nhs-modal-overlay"></div>
