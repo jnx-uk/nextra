@@ -83,9 +83,10 @@ text-align: center;
 color: #fff;
 min-height: 50vh;
 display: block;
+border-radius: 20pt 40pt;
 }
 
-#__next > div > div > article > main > section > h1 {
+.nhs-hero > h1 {
 color: #fff;
 font-size: 4rem;
 text-align: center;
