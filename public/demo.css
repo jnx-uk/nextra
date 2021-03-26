@@ -84,7 +84,7 @@ color: #fff;
 padding: 75px;
 }
 
-.nhs-hero > h1 {
+#__next > div > div > article > main > section > h1 {
 color: #fff;
 font-size: 4rem;
 }
