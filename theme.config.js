@@ -20,6 +20,7 @@ export default {
       <link rel="stylesheet" href="https://nhs.pages.dev/css/nhs-components.css" type="text/css" />
     <link rel="stylesheet" href="https://nhs.pages.dev/css/nhs-colours.css" type="text/css" />
     <link rel="stylesheet" href="/demo.css" type="text/css" />
+    <link rel="stylesheet" href="https://nhs.pages.dev/fa/css/all.min.css" type="text/css"></link>
     </>
   ),
   search: true,

@@ -8,14 +8,14 @@ text
 
 ## Box
 
-    <p>A box used to display key information on a page.</p>
+A box used to display key information on a page.
+
     <div class="nhs-box">
         <header>Box Title</header>
             <p>Box Text</p>
     </div>
 
 ```html
-    <p>A box used to display key information on a page.</p>
     <div class="nhs-box">
         <header>Box Title</header>
             <p>Box Text</p>
