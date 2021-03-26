@@ -1,6 +1,6 @@
-<section class="hero nhs-fancy2">
+<div class="hero nhs-fancy2">
 <h1>NHS UI Components</h1>
-</section>
+</div>
 
 # Introduction
 
@@ -22,9 +22,4 @@ Adding NHS UI Components to an app or site is simple by adding some lines into y
 
 <!-- Optional to add FontAwesome Icons -->
 <link rel="stylesheet" href="https://nhs.pages.dev/css/fa/all.min.cs.css">
-```
-
-#### Add before &lt;/body&gt; tag
-```html
-<script src="https://nhs.pages.dev/js/nhs.js"></script>
 ```
