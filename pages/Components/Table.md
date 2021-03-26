@@ -18,7 +18,7 @@
             <td>Waiting Discharge</td>
         </tbody>
     </table>
-<p>Code</p>
+
 ```html
 <table class="nhs-table">
         <thead>
