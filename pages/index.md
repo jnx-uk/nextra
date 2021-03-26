@@ -1,13 +1,9 @@
-# NHS UI Components
-
-NHS UI Components have been crafted to add consistent, clean design to apps and websites.  It can be used on it's own, or in addition to another framework, eg bootstrap.
-
----
-
 <section class="hero nhs-fancy2">
 <h1>Welcome</h1>
 <p>Some text</p>
 </section>
+
+NHS UI Components have been crafted to add consistent, clean design to apps and websites.  It can be used on it's own, or in addition to another framework, eg bootstrap.
 
 ---
 
