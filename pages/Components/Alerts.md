@@ -1,10 +1,20 @@
 # Alerts
 
-<p class="nhs-alert-warning">.nhs-alert-warning (as a p tag class)</p>
-    <span class="nhs-alert-warning">.nhs-alert-warning (as a span class)</span>
-    <br />
-    <p class="nhs-alert-danger">.nhs-alert-danger (as a p tag class)</p>
-    <span class="nhs-alert-danger">.nhs-alert-danger (as a span class)</span>
-    <br />
-    <p class="nhs-alert-success">.nhs-alert-success (as a p tag class)</p>
-    <span class="nhs-alert-success">.nhs-alert-success (as a span class)</span>
+<p class="nhs-alert-warning">.nhs-alert-warning</p>
+
+```html
+<p class="nhs-alert-warning">.nhs-alert-warning</p>
+```
+
+<p class="nhs-alert-danger">.nhs-alert-danger</p>
+
+```html
+<p class="nhs-alert-danger">.nhs-alert-danger</p>
+```
+
+
+<p class="nhs-alert-success">.nhs-alert-success</p>
+
+```html
+<p class="nhs-alert-success">.nhs-alert-success</p>
+```
