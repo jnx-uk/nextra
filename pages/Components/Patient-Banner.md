@@ -1,3 +1,3 @@
-# Patient-Banner
+# Patient Banner
 
 text
