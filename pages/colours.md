@@ -1,6 +1,6 @@
 # Colours
 
-<p>Provided by NHS Brand Guidelines, in priority order.  These classes will add background colour to any elements.</p>
+Provided by NHS Brand Guidelines, in priority order.  These classes will add background colour to any elements.
 
 ### Core Colours
 <div class="colour-block">    
@@ -34,5 +34,4 @@ Minimal use of these colours.
 
 ```html
 <div class="nhs-yellow">nhs-yellow</div>
-    <div class="nhs-light-yellow">nhs-light-yellow</div>
 ```
