@@ -1,4 +1,4 @@
-<div class="nhs-hero nhs-fancy2">
+<div class="nhs-hero nhs-fancy">
 <h1>NHS UI Components</h1>
 </div>
 
