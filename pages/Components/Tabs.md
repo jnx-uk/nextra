@@ -21,7 +21,6 @@
 <h3>Tab Three Content</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 </div>
-</div>
 
 ```html
 <div class="tabs">
