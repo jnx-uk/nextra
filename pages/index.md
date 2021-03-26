@@ -1,6 +1,5 @@
 <section class="hero nhs-fancy2">
-<h1>Welcome</h1>
-<p>Some text</p>
+<h1>NHS UI Components</h1>
 </section>
 
 NHS UI Components have been crafted to add consistent, clean design to apps and websites.  It can be used on it's own, or in addition to another framework, eg bootstrap.
