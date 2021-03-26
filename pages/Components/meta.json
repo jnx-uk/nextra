@@ -1,7 +1,9 @@
 {
   "alerts": "Alerts",
+  "box": "Box",
   "buttons": "Buttons",
   "hero": "Hero",
+  "menu": "Menu",
   "modal": "Modal",
   "table": "Table",
   "tabs": "Tabs",
