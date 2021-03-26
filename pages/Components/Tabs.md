@@ -1,5 +1,8 @@
-<h1>Tabs</h1>
-<br />
+# Tabs
+
+Insert demo
+
+```html
 <div class="tabs">
 <input type="radio" name="tabs" id="tabone" checked="checked" />
 <label for="tabone">Tab One</label>
@@ -22,3 +25,4 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 </div>
 </div>
+```
