@@ -81,10 +81,11 @@ color: #000;
 .nhs-hero {
 text-align: center;
 color: #fff;
-height: 450px;
+height: 350px;
 display: block;
 border-radius: 15pt 30pt;
-padding-top: 230px;
+padding-top: 150px;
+margin-bottom: 100px;
 }
 
 .nhs-hero > h1 {
