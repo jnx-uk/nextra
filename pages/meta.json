@@ -1,4 +1,8 @@
 {
-  "index": "What is Nextra",
-  "docs": "Nextra Docs"
+  "index": "Intro",
+  "get-started": "Get Started",
+  "layout": "Layout",
+  "automatics": "Automatic Styles",
+  "components": "Components",
+  "colours": "Colours"
 }

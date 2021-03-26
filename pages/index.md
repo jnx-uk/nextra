@@ -1,7 +1,10 @@
-# Nextra
+# NHS UI Components
 
-**Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 lines of code needed.  
+hero here.
 
-It supports Markdown with React components ([MDX](/docs/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, i18n and more.
+<section class="hero nhs-fancy">
+<h1>Welcome</h1>
+<a href="/docs/get-started" class="nhs-btn" >Get Started</a>
+</section>
 
-![](/demo.png)
+![](/nhs-ui.jpg)
