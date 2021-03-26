@@ -1,4 +1,4 @@
-## Box
+# Box
 
 A box used to display key information on a page.
 
