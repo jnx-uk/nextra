@@ -1,10 +1,8 @@
 # Tooltips
 
-<div class="nhs-tooltip">Hover over me
-  <span class="nhs-tooltiptext">Tooltip text</span>
+<div class="nhs-tooltip"><a href="#" class="nhs-btn nhs-fancy2">Hover over me!</a>
+  <span class="tooltiptext">Tooltip text</span>
 </div>
-
-<a href="#" class="nhs-btn nhs-red">Hover over me!</a>
 
 ```html
 
