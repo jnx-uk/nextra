@@ -81,7 +81,7 @@ color: #000;
 .nhs-hero {
 text-align: center;
 color: #fff;
-padding: 150px;
+min-height: 50vh;
 }
 
 #__next > div > div > article > main > section > h1 {
