@@ -88,6 +88,19 @@ padding: 75px;
 color: #fff;
 font-size: 4rem;
 }
+
+.colour-block {
+    display: flex;
+}
+.colour {
+    width: 140px;
+    height: 140px;
+    display: block;
+    margin: 6px;
+    text-align: center;
+    padding-top: 60px;
+    border-radius: 10% 20%;
+}
 @media only screen and (max-width: 740px) {
 
 .hide-xs {
