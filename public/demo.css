@@ -74,8 +74,10 @@ border-radius: 5pt 10pt 0pt 00pt;
 color: #000;
 }
 
-.nhs-fancy {
-background-image: linear-gradient( 70.6deg,  rgba(172,30,255,1) 0.3%, rgba(65,35,251,1) 55.8%, rgba(35,251,224,1) 105.1% ); 
+.nhs-fancy2 {
+    background-color: #08AEEA;
+    background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+    
 }
 
 .nhs-hero {
@@ -84,7 +86,7 @@ color: #fff;
 padding: 75px;
 }
 
-.nhs-hero h1 {
+.nhs-hero > h1 {
 color: #fff;
 font-size: 4rem;
 }
