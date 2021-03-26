@@ -9,8 +9,6 @@ NHS UI Components ahave been crafted to add consistent, clean design to apps and
 <a href="/docs/get-started" class="nhs-btn" >Get Started</a>
 </section>
 
-![](/nhs-ui.jpg)
-
 ---
 
 ## Get Started
@@ -24,7 +22,8 @@ Adding NHS UI Components to an app or site is simple by adding some lines into y
 1. Add script snippets below.
 2. Start adding classes to your code to use components.
 <br />
-<br>Add inside &lt;head&gt; tag</br>
+
+#### Add inside &lt;head&gt; tag
 ```html
 <link rel="stylesheet" href="https://nhs.pages.dev/css/nhs-components.css">
 <link rel="stylesheet" href="https://nhs.pages.dev/css/nhs-colours.css">
@@ -33,7 +32,8 @@ Adding NHS UI Components to an app or site is simple by adding some lines into y
 <link rel="stylesheet" href="https://nhs.pages.dev/css/fa/all.min.cs.css">
 ```
 <br />
-<b>Add before &lt;/body&gt; tag</b>
+
+#### Add before &lt;/body&gt; tag
 ```html
 <script src="https://nhs.pages.dev/js/nhs.js"></script>
 ```
