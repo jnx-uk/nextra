@@ -19,6 +19,7 @@ export default {
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
       <link rel="stylesheet" href="https://nhs.pages.dev/css/nhs-components.css" type="text/css" />
     <link rel="stylesheet" href="https://nhs.pages.dev/css/nhs-colours.css" type="text/css" />
+    <link rel="stylesheet" href="/demo.css" type="text/css" />
     </>
   ),
   search: true,

@@ -1,0 +1,129 @@
+*:focus {
+    outline: none;
+}
+
+header nav a, .nhs-user {
+    color: #fff;  
+    text-decoration: none;
+    padding: 6px 8px;
+    margin: 2px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1.4rem;
+    }
+
+    header nav a:hover {
+    background:#29b6f6;
+    
+    }
+
+    header a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+.nhs-container {
+    max-width: 1250px;
+    margin: auto;
+}
+
+.nhs-search {
+    padding: 0px;
+    margin: 0px;
+    display: inline-flex;
+    height: 40px;
+    
+}
+    .nhs-search input {
+        padding: 10px;
+        border-radius: 5px 0px 0px 10px;
+        border-width: 0px;
+        width: 120px;
+        background: rgba(255,255,255,0.6);
+        font-size: 1.1rem;
+        height: 20px;
+    }
+    .nhs-search input:focus {
+        background: #fff;
+    }
+    .nhs-search-button {
+        border-width: 0px;
+        font-size: 1.1rem;
+        cursor: pointer;
+        /* padding: 10px; */
+        height: 20px;
+        width: 40px;
+        padding: 10px 0px;
+    }
+    .nhs-search-button:nth-last-of-type(1) {
+        border-radius: 0px 10px 5px 0px;
+    }
+
+.nhs-flex {
+display: inline-flex;
+}
+
+.nhs-mob-bar {
+display: none;
+}
+
+.nhs-user {
+border-radius: 5pt 10pt 0pt 00pt;
+color: #000;
+}
+
+.nhs-fancy {
+background-image: linear-gradient( 70.6deg,  rgba(172,30,255,1) 0.3%, rgba(65,35,251,1) 55.8%, rgba(35,251,224,1) 105.1% ); 
+}
+
+.nhs-hero {
+text-align: center;
+color: #fff;
+padding: 75px;
+}
+
+.nhs-hero h1 {
+color: #fff;
+font-size: 4rem;
+}
+@media only screen and (max-width: 740px) {
+
+.hide-xs {
+    display: none;
+}
+
+header > div {
+    padding: 12px 5px;
+    margin: 0px;
+}
+
+header nav a, .nhs-user {
+    font-size: 1.2rem;
+    padding: 6px;
+    margin: 2px;
+}
+
+.nhs-mob-bar {
+display: block;
+padding: 5px;
+}
+
+.nhs-search input {
+    width: 100%
+}
+
+main {
+    min-height: Calc(100vh - 200px);
+}
+
+.nhs-search-button {
+        border-width: 0px;
+        font-size: 1.1rem;
+        cursor: pointer;
+        height: 20px;
+        width: 20px;
+        padding: 10px;
+    }
+}
